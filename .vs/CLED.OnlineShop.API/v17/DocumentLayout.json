@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Coding\\OnlineShopAPI\\CLED.OnlineShop.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A77E006-C15B-48A3-BBCA-D8F74C3D34CB}|CLED.OnlineShop.API\\CLED.OnlineShop.API.csproj|c:\\projects\\coding\\onlineshopapi\\cled.onlineshop.api\\cled.onlineshop.api\\endpoints\\ordersendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A77E006-C15B-48A3-BBCA-D8F74C3D34CB}|CLED.OnlineShop.API\\CLED.OnlineShop.API.csproj|solutionrelative:cled.onlineshop.api\\endpoints\\ordersendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A77E006-C15B-48A3-BBCA-D8F74C3D34CB}|CLED.OnlineShop.API\\CLED.OnlineShop.API.csproj|c:\\projects\\coding\\onlineshopapi\\cled.onlineshop.api\\cled.onlineshop.api\\cled.onlineshop.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5A77E006-C15B-48A3-BBCA-D8F74C3D34CB}|CLED.OnlineShop.API\\CLED.OnlineShop.API.csproj|solutionrelative:cled.onlineshop.api\\cled.onlineshop.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A77E006-C15B-48A3-BBCA-D8F74C3D34CB}|CLED.OnlineShop.API\\CLED.OnlineShop.API.csproj|c:\\projects\\coding\\onlineshopapi\\cled.onlineshop.api\\cled.onlineshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A77E006-C15B-48A3-BBCA-D8F74C3D34CB}|CLED.OnlineShop.API\\CLED.OnlineShop.API.csproj|solutionrelative:cled.onlineshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A77E006-C15B-48A3-BBCA-D8F74C3D34CB}|CLED.OnlineShop.API\\CLED.OnlineShop.API.csproj|c:\\projects\\coding\\onlineshopapi\\cled.onlineshop.api\\cled.onlineshop.api\\endpoints\\customersendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A77E006-C15B-48A3-BBCA-D8F74C3D34CB}|CLED.OnlineShop.API\\CLED.OnlineShop.API.csproj|solutionrelative:cled.onlineshop.api\\endpoints\\customersendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A77E006-C15B-48A3-BBCA-D8F74C3D34CB}|CLED.OnlineShop.API\\CLED.OnlineShop.API.csproj|c:\\projects\\coding\\onlineshopapi\\cled.onlineshop.api\\cled.onlineshop.api\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A77E006-C15B-48A3-BBCA-D8F74C3D34CB}|CLED.OnlineShop.API\\CLED.OnlineShop.API.csproj|solutionrelative:cled.onlineshop.api\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CLED.OnlineShop.API.http",
+              "DocumentMoniker": "C:\\Projects\\Coding\\OnlineShopAPI\\CLED.OnlineShop.API\\CLED.OnlineShop.API\\CLED.OnlineShop.API.http",
+              "RelativeDocumentMoniker": "CLED.OnlineShop.API\\CLED.OnlineShop.API.http",
+              "ToolTip": "C:\\Projects\\Coding\\OnlineShopAPI\\CLED.OnlineShop.API\\CLED.OnlineShop.API\\CLED.OnlineShop.API.http",
+              "RelativeToolTip": "CLED.OnlineShop.API\\CLED.OnlineShop.API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-14T15:52:39.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersEndpoint.cs",
+              "DocumentMoniker": "C:\\Projects\\Coding\\OnlineShopAPI\\CLED.OnlineShop.API\\CLED.OnlineShop.API\\Endpoints\\OrdersEndpoint.cs",
+              "RelativeDocumentMoniker": "CLED.OnlineShop.API\\Endpoints\\OrdersEndpoint.cs",
+              "ToolTip": "C:\\Projects\\Coding\\OnlineShopAPI\\CLED.OnlineShop.API\\CLED.OnlineShop.API\\Endpoints\\OrdersEndpoint.cs",
+              "RelativeToolTip": "CLED.OnlineShop.API\\Endpoints\\OrdersEndpoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:40:20.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Projects\\Coding\\OnlineShopAPI\\CLED.OnlineShop.API\\CLED.OnlineShop.API\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "CLED.OnlineShop.API\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Projects\\Coding\\OnlineShopAPI\\CLED.OnlineShop.API\\CLED.OnlineShop.API\\Services\\CustomerService.cs",
+              "RelativeToolTip": "CLED.OnlineShop.API\\Services\\CustomerService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T14:34:37.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersEndpoints.cs",
+              "DocumentMoniker": "C:\\Projects\\Coding\\OnlineShopAPI\\CLED.OnlineShop.API\\CLED.OnlineShop.API\\Endpoints\\CustomersEndpoints.cs",
+              "RelativeDocumentMoniker": "CLED.OnlineShop.API\\Endpoints\\CustomersEndpoints.cs",
+              "ToolTip": "C:\\Projects\\Coding\\OnlineShopAPI\\CLED.OnlineShop.API\\CLED.OnlineShop.API\\Endpoints\\CustomersEndpoints.cs",
+              "RelativeToolTip": "CLED.OnlineShop.API\\Endpoints\\CustomersEndpoints.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T14:20:27.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Coding\\OnlineShopAPI\\CLED.OnlineShop.API\\CLED.OnlineShop.API\\Program.cs",
+              "RelativeDocumentMoniker": "CLED.OnlineShop.API\\Program.cs",
+              "ToolTip": "C:\\Projects\\Coding\\OnlineShopAPI\\CLED.OnlineShop.API\\CLED.OnlineShop.API\\Program.cs",
+              "RelativeToolTip": "CLED.OnlineShop.API\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:36:39.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
